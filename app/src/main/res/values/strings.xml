@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pizza App</string>
+    <string name="price_format">Price: $%.2f</string>
+</resources>
